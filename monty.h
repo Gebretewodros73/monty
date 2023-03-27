@@ -70,5 +70,8 @@ void add_file(stack_t **head, unsigned int counter);
 void queue_file(stack_t **head, unsigned int counter);
 void pint_file(stack_t **head, unsigned int counter);
 void stack_file(stack_t **head, unsigned int counter);
+void pop_file(stack_t **head, unsigned int counter);
+void nop_file(stack_t **head, unsigned int counter);
+
 
 #endif /* MONTY_H */

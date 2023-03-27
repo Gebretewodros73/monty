@@ -58,6 +58,7 @@ void pall_file(stack_t **head, unsigned int counter)
 	}
 }
 /*queue*/
+#include "monty.h"
 /**
  * add_queue - add node to the tail stack
  * @n: new_value
