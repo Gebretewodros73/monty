@@ -76,6 +76,7 @@ void mul_file(stack_t **head, unsigned int counter);
 void sub_file(stack_t **head, unsigned int counter);
 void div_file(stack_t **head, unsigned int counter);
 void swap_file(stack_t **head, unsigned int counter);
+void mod_file(stack_t **head, unsigned int counter);
 
 
 #endif /* MONTY_H */
