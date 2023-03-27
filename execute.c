@@ -22,7 +22,7 @@ int execute(char *content, stack_t **stack, unsigned int counter, FILE *file)
 				{"pchar", pchar_file},
 				{"pstr", pstr_file},
 				{"rotl", rotl_file},
-				/*{"rotr", f_rotr},*/
+				{"rotr", rotr_file},
 				{"queue", queue_file},
 				{"stack", stack_file},
 				{NULL, NULL}

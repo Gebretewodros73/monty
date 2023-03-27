@@ -80,6 +80,7 @@ void mod_file(stack_t **head, unsigned int counter);
 void pstr_file(stack_t **head, unsigned int counter);
 void pchar_file(stack_t **head, unsigned int counter);
 void rotl_file(stack_t **head,  __attribute__((unused)) unsigned int counter);
+void rotr_file(stack_t **head, __attribute__((unused)) unsigned int counter);
 
 
 #endif /* MONTY_H */
