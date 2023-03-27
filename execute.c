@@ -16,9 +16,9 @@ int execute(char *content, stack_t **stack, unsigned int counter, FILE *file)
 				{"add", add_file},
 				{"nop", nop_file},
 				/*{"sub", sub_file},
-				{"div", div_file},
+				{"div", div_file},*/
 				{"mul", mul_file},
-				{"mod", f_mod},
+				/*{"mod", f_mod},
 				{"pchar", f_pchar},
 				{"pstr", f_pstr},
 				{"rotl", f_rotl},
