@@ -73,6 +73,8 @@ void stack_file(stack_t **head, unsigned int counter);
 void pop_file(stack_t **head, unsigned int counter);
 void nop_file(stack_t **head, unsigned int counter);
 void mul_file(stack_t **head, unsigned int counter);
+void sub_file(stack_t **head, unsigned int counter);
+void div_file(stack_t **head, unsigned int counter);
 
 
 #endif /* MONTY_H */
